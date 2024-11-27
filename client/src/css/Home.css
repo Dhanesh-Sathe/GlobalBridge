@@ -1,0 +1,45 @@
+.backImg {
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.60)), url('../../public/images/pexels-tomfisk-3057960.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.cinzel {
+    font-family: 'Cinzel', serif;
+}
+
+.wheat {
+    color: wheat;
+}
+
+.bgColor1 {
+    background-color: #F0F8FF;
+}
+
+.bgColor2 {
+    background-color: #FAFAFA;
+}
+
+.boxShadow1 {
+    box-shadow: 0 0 10px #44a6fc;
+}
+
+.TimesNewRoman {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.Arial {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Geneva{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+}
+
+.borderRadius1 {
+    border-radius: 10%;
+}
+
+.backColor {
+    background-color: #87CEEB;
+}
